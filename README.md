@@ -1,2 +1,2 @@
 # Diwali-Sales-Report-Data-Analysis-Project
-..
+Conducted an end-to-end analysis of Diwali sales data using Python and Jupyter Notebook, including data cleaning, exploratory data analysis (EDA), and visualization. Utilized libraries like NumPy, Pandas, Matplotlib, and Seaborn to uncover insights such as gender and age group sales trends, state-wise order distribution, and top-performing products/categories, providing actionable recommendations to optimize sales strategies.
